@@ -43,14 +43,14 @@
   },
   "devDependencies": {
     "@npmcli/eslint-config": "^5.0.1",
-    "@npmcli/template-oss": "4.24.4",
-    "tap": "^16.3.8"
+    "@npmcli/template-oss": "4.29.0",
+    "tap": "^21.5.0"
   },
   "dependencies": {
     "@npmcli/arborist": "^9.1.4",
     "@npmcli/installed-package-contents": "^3.0.0",
     "binary-extensions": "^3.0.0",
-    "diff": "^7.0.0",
+    "diff": "^8.0.3",
     "minimatch": "^9.0.4",
     "npm-package-arg": "^12.0.0",
     "pacote": "^21.0.0",
