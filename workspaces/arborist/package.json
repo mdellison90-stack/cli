@@ -20,7 +20,7 @@
     "hosted-git-info": "^8.0.0",
     "json-stringify-nice": "^1.1.4",
     "lru-cache": "^10.2.2",
-    "minimatch": "^9.0.4",
+    "minimatch": "^10.2.6",
     "nopt": "^8.0.0",
     "npm-install-checks": "^7.1.0",
     "npm-package-arg": "^12.0.0",
@@ -41,11 +41,11 @@
   "devDependencies": {
     "@npmcli/eslint-config": "^5.0.1",
     "@npmcli/mock-registry": "^1.0.0",
-    "@npmcli/template-oss": "4.24.4",
+    "@npmcli/template-oss": "4.30.0",
     "benchmark": "^2.1.4",
     "minify-registry-metadata": "^4.0.0",
     "nock": "^13.3.3",
-    "tap": "^16.3.8",
+    "tap": "^21.8.0",
     "tar-stream": "^3.0.0",
     "tcompare": "^5.0.6"
   },
